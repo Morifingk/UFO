@@ -15,6 +15,7 @@ The UFO finder web page with filters for the date, city, state, country, and sha
 Using JavaScript, I’ll replace the handleClick() function in your app.js file with a new function that saves the element, value, and id of the filter that was changed. Then, I’ll create a new function to loop through the dataset and keep only the results that match the search criteria. The webpage will be updated with the search criteria after pressing "Enter".
 
 Results
+
 #Describing how someone might use the new webpage by walking through the process of using the search criteria. 
 #Use images of my webpage during the filtering process to support my explanation.
 
